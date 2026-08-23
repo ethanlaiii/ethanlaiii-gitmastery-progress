@@ -1,0 +1,55 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787503686.555851,
+    "completed_at": 1787503689.711361,
+    "comments": [
+      "New grocery list items added to shopping-list.txt are not committed.",
+      "Grocery list items removed from shopping-list.txt are not committed."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787503727.501046,
+    "completed_at": 1787503729.166437,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787505614.602771,
+    "completed_at": 1787505617.51594,
+    "comments": [
+      "Answer for What is the commit message of the commit ae4a7129146589aa4d67716677fcd83ecfa558a9? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787505735.108691,
+    "completed_at": 1787505736.583722,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1787503075.927569,
+    "completed_at": 1787503077.353749,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1787496259.544588,
+    "completed_at": 1787496260.944035,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  }
+]
